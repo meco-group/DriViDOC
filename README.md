@@ -1,7 +1,9 @@
 # DriViDOC
 Driving from Vision through Differentiable Optimal Control
 
- This repository complements the main paper "Learning from Visual Demonstrations through Differentiable Nonlinear MPC for Personalized Autonomous Driving," submitted to IROS 2024, to enhance the transparency and reproducibility of the research presented.
+This repository complements the main paper "Learning from Visual Demonstrations through Differentiable Nonlinear MPC for Personalized Autonomous Driving," submitted to IROS 2024, to enhance the transparency and reproducibility of the research presented.
+
+![](img/styles.gif)
 
 ## Abstract
 Human-like autonomous driving controllers have the potential to enhance passenger perception of autonomous vehicles. This paper proposes DriViDOC: a model for Driving from Vision through Differentiable Optimal Control, and its application to learn personalized autonomous driving controllers from human demonstrations. 
