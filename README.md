@@ -2,7 +2,7 @@
 Driving from Vision through Differentiable Optimal Control
 
 This repository complements the main paper "Learning from Visual Demonstrations through Differentiable Nonlinear MPC for Personalized Autonomous Driving," submitted to IROS 2024, to enhance the transparency and reproducibility of the research presented.
-
+[ArXiv preprint](https://arxiv.org/abs/2403.15102)
 ![](img/styles.gif)
 
 ## Abstract
